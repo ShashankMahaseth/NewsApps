@@ -13,6 +13,7 @@
 </div>
 **Daily News** is a cutting-edge news aggregator built with React and Vite, designed to deliver a premium user experience. It features a sleek, gradient-themed interface that allows users to seamlessly browse top headlines from around the world.
 
+ #WEBSITE = https://newsapp82.netlify.app/
 ### ✨ Key Features
 
 *   **Dynamic Country Filtering**: Instantly switch news context between 14+ countries (USA, India, UK, Japan, etc.) without page reloads.
